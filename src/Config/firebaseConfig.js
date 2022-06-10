@@ -19,17 +19,3 @@ export default {
 };
 
 
-
-
-
-// export default {
-//   //TODO:
-//   // add your keys here
-//   apiKey: "AIzaSyA3dSfjFykXiSrPypX0I_LtoV7ePkYnvU0",
-//   authDomain: "mygitapp-a33c8.firebaseapp.com",
-//   projectId: "mygitapp-a33c8",
-//   storageBucket: "mygitapp-a33c8.appspot.com",
-//   messagingSenderId: "1009793363019",
-//   appId: "1:1009793363019:web:169955a42751dcfcda31ce",
-//   measurementId: "G-CL10GJEGV6"
-// };
